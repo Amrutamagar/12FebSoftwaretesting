@@ -1,0 +1,17 @@
+2022-05-31 11:30:21,808  INFO [TestNG-test=Test-1] SauceDemo1:34 - Browser is Open
+2022-05-31 11:30:21,975  INFO [TestNG-test=Test-1] SauceDemo1:37 - Browser is maximaize
+2022-05-31 11:30:23,012  INFO [TestNG-test=Test-1] SauceDemo1:39 - URL is open
+2022-05-31 11:30:23,474  INFO [TestNG-test=Test-1] SauceDemo1:45 - Send the Username
+2022-05-31 11:30:25,896  INFO [TestNG-test=Test-1] SauceDemo1:49 - Send the Password
+2022-05-31 11:30:28,659  INFO [TestNG-test=Test-2] SauceDemo1:34 - Browser is Open
+2022-05-31 11:30:28,948  INFO [TestNG-test=Test-2] SauceDemo1:37 - Browser is maximaize
+2022-05-31 11:30:29,151  INFO [TestNG-test=Test-1] SauceDemo1:53 - click the login button
+2022-05-31 11:30:29,916  INFO [TestNG-test=Test-1] SauceDemo1:56 - select menu button
+2022-05-31 11:30:31,106  INFO [TestNG-test=Test-2] SauceDemo1:39 - URL is open
+2022-05-31 11:30:31,323  INFO [TestNG-test=Test-2] SauceDemo1:45 - Send the Username
+2022-05-31 11:30:32,026  INFO [TestNG-test=Test-1] SauceDemo1:60 - succesfully logout
+2022-05-31 11:30:33,550  INFO [TestNG-test=Test-2] SauceDemo1:49 - Send the Password
+2022-05-31 11:30:35,081  INFO [TestNG-test=Test-1] SauceDemo1:15 - Test case pass
+2022-05-31 11:30:35,966  INFO [TestNG-test=Test-2] SauceDemo1:53 - click the login button
+2022-05-31 11:30:36,661  INFO [TestNG-test=Test-2] SauceDemo1:56 - select menu button
+2022-05-31 11:30:38,068  INFO [TestNG-test=Test-1] SauceDemo1:66 - window will close
