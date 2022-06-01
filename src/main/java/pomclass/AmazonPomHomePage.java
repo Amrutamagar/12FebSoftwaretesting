@@ -29,6 +29,7 @@ public class AmazonPomHomePage
 	public void ClickonSignoutButton()
 	{
 		signout.click();
+		System.out.println("click signout");
 	}
 	
 	
